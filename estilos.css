@@ -47,8 +47,8 @@ main table{
 button{
     height: 100px;
     width: 100px;
-    font-size: 40px;
-    color: black;
+    font-size: 50px;
+    color: rgb(249, 4, 4);
     font-weight: bold;
     background-color: rgb(248, 228, 191);
     border: none;
@@ -77,5 +77,5 @@ main .seccion-2 .estadisticas{
 }
 
 main .seccion-2 h3{
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
